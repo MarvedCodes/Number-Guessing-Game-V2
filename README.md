@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Number Guessing Game (With Difficulty Modes)
 
 This is a Vanilla JavaScript Project with DOM Manipulation.
 
