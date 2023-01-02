@@ -1,4 +1,4 @@
-# Workout Tracker
+# Number Guessing Game
 
 This is a Vanilla JavaScript Project with DOM Manipulation.
 
