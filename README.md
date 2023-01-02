@@ -21,7 +21,7 @@ This is a Vanilla JavaScript Project with DOM Manipulation.
 
 ### Links
 
-- DEMO:[Link](https://marvedventures.github.io/Number-Guessing-Game-v2/)
+- DEMO: [Link](https://marvedventures.github.io/Number-Guessing-Game-v2/)
 
 ## My process
 
