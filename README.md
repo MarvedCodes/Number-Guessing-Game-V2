@@ -21,7 +21,7 @@ This is a Vanilla JavaScript Project with DOM Manipulation.
 
 ### Links
 
-- DEMO: [Link](https://marvedventures.github.io/Number-Guessing-Game-v2/)
+- DEMO: [Link](https://marventures.github.io/Number-Guessing-Game-v2/)
 
 ## My process
 
@@ -69,5 +69,5 @@ document.querySelector('.easy').addEventListener('click', function () {
 ## Author
 
 - Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marvedventures](https://www.linkedin.com/in/marvedventures/)
-- Twitter - [@marvedventures](https://www.twitter.com/marvedventures)
+- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
+- Twitter - [@marventures11](https://www.twitter.com/marventures11)
